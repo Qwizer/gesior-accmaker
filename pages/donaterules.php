@@ -1,0 +1,12 @@
+<div class="TableContainer">  <div class="CaptionContainer">      <div class="CaptionInnerContainer">        <span class="CaptionEdgeLeftTop" style="background-image: url(./layouts/tibiacom/images/content/box-frame-edge.gif);"></span>        <span class="CaptionEdgeRightTop" style="background-image: url(./layouts/tibiacom/images/content/box-frame-edge.gif);"></span>        <span class="CaptionBorderTop" style="background-image: url(./layouts/tibiacom/images/content/table-headline-border.gif);"></span>        <span class="CaptionVerticalLeft" style="background-image: url(./layouts/tibiacom/images/content/box-frame-vertical.gif);"></span>        <div class="Text">Donation Rules</div>        <span class="CaptionVerticalRight" style="background-image: url(./layouts/tibiacom/images/content/box-frame-vertical.gif);"></span>        <span class="CaptionBorderBottom" style="background-image: url(./layouts/tibiacom/images/content/table-headline-border.gif);"></span>        <span class="CaptionEdgeLeftBottom" style="background-image: url(./layouts/tibiacom/images/content/box-frame-edge.gif);"></span>        <span class="CaptionEdgeRightBottom" style="background-image: url(./layouts/tibiacom/images/content/box-frame-edge.gif);"></span>      </div>    </div>    <table class="Table1" cellpadding="0" cellspacing="0">    <tbody><tr>      <td>        <div class="InnerTableContainer">          <table style="width: 100%;"><tbody><tr><td valign="middle" width="25px;">
+
+<b>Antes de efetuar uma doação, lembre-se sempre de ler nossos Termos de Compra.</b><br><br>
+<textarea rows="10" wrap="physical" cols="100" readonly="true" width="100%" height="500px">
+a) O Doador está ciente que a doação não pode ser devolvida.
+b) Os Tibia Coins serão entregues dentro do prazo de 24 horas na conta do doador após a aprovação do pagamento (automático para PagSeguro).
+c) O Doador está ciente que não está comprando e sim doando, e como forma de gratificação iremos adicionar Tibia Coins na conta do doador.
+</textarea><br><br>
+As regras descritas acima podem ser alteradas sem ou com aviso prévio, portanto esteja ciente em ler sempre que for adquirir Tibia Coins.<br>
+
+
+       </td></tr></tbody></table>        </div>  </td></tr></tbody></table></div>

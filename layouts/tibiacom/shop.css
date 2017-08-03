@@ -1,0 +1,101 @@
+.InnerTableTab {  
+    position: relative;  
+    float: left;  top: 5px;  
+    margin-left: 1px;  
+    margin-right: 0px;  
+    cursor: pointer;  
+    vertical-align: middle;  
+    width: 105px;  
+    height: 45px;
+}
+.InnerTableTab .RibbonNewProduct {  
+    position: absolute;  
+    top: 2px;  
+    left: -1px;  
+    height: 39px;  
+    width: 39px;  
+    z-index: 199;
+}
+.ActiveInnerTableTab .RibbonNewProduct {  
+    top: -2px;
+}
+
+.InnerTableTab .RibbonLastChance {  
+    position: absolute;  
+    top: 2px;  
+    left: 65px;  
+    height: 39px;  
+    width: 39px;  
+    z-index: 199;
+}
+
+.ActiveInnerTableTab .RibbonLastChance {  
+    top: -2px;  left: 64px;
+}
+.InnerTableTab a {  
+    border: 0px;  
+    color: #5A2800;  
+    font-weight: normal;
+}
+.InnerTableTab a img {  
+    border: 0px;  
+    width: 105px;  
+    height: 45px;  
+    position: absolute;  
+    top: 0px;
+}
+
+.InnerTableTabLabel {  
+    position: relative;  
+    top: 0px;  
+    left: 0px;  
+    text-align: center;  
+    width: 86px;  
+    height: 35px;  
+    display: table-cell;  
+    vertical-align: middle;  
+    padding-top: 5px;  
+    padding-left: 5px;
+}.InnerTableTab a:hover {  border: 0px;  color: #5A2800;/*  font-weight: normal;*/  text-decoration: none;}.ActiveInnerTableTab {  z-index: 99;  top: 6px;}.ActiveInnerTableTab a {  font-weight: bold;}.ActiveInnerTableTab .InnerTableTabLabel {  top: 6px;  padding-top: 1px;}.ProductCategoryHelperDiv {  position: relative;  float:right;  top: 35px;  right: 5px;}/*  payment system*/.GameCode {  text-transform: uppercase;  width: 60px;}.Saving {  background-color: blue;  color: white;  padding: 1px 8px;  border: 2px solid;  border-radius: 10px;  font-size: 10px;}#LastSaving {  background-color: red;}.BGRed {  background-color: #EF0000;}.BGOrange {  background-color: #FF9712;;}.BGGreen {  background-color: #00BF00; }.Content .BoxContent .Disabled td {  color: grey;}.PlaySpanContainer {  position: relative;  text-align: center;}.ServiceID_Icon_Container {  position: relative;  width: 156px;  height: 156px;  float: left;  margin: 3px;}.ServiceID_Icon_Container_Background {  position: absolute;  width: 150px;  height: 150px;  top: 3px;  left: 3px;}.ServiceID_Icon_Container label {  font-size: 8pt;}.ServiceID_Icon {  position: relative;  float: left;  width: 150px;  height: 150px;  text-align: center;  background-repeat: no-repeat;  color: white;  cursor: pointer;  background-position: center;}.ServiceID_Icon_New {  position: absolute;  left: 10px;  top: 48px;  height: 64px;  width: 128px;}.ServiceID_Icon .ServiceID_Deactivated {  position: absolute;  top: 0px;  left: 0px;  width: 150px;  height: 150px;  z-index: 99;}.ServiceID_Icon .ServiceID_Icon_Selected {  position: absolute;  top: 0px;  left: 0px;  width: 150px;  height: 150px;  z-index: 98;}.ServiceID_Icon .ServiceIDLabelContainer {  position: absolute;  left: 0px;  display: table;  top: 6px;  height: 35px;   width: 130;  margin-left: 10px;  margin-right: 10px;  z-index: 99;}.ServiceID_Icon .ServiceIDLabel {  display: table-cell;  vertical-align: middle;}.ServiceID_Icon .ServiceIDPriceContainer {  position: absolute;  left: 0px;  bottom: 10px;  width: 140;  margin-left: 5px;  margin-right: 5px;  z-index: 99;}.ServiceID_Icon .ServiceIDSpecialOffer {  position: absolute;  left: 0px;  top: -5px;  z-index: 100;}.ServiceID_Icon .ServiceID_Icon_Over {  position: absolute;  top: 0px;  left: 0px;  width: 150px;  height: 150px;  z-index: 97;}.ServiceID_Icon .ServiceID_HelperDiv {  position: relative;  top: 0px;  left: 0px;  width: 150px;  height: 150px;  z-index: 399;}.ServiceID_Icon .RibbonNewProduct {  position: absolute;  top: -4px;  left: -4px;  height: 58px;  width: 58px;  z-index: 199;}.ServiceID_Icon .RibbonLastChance {  position: absolute;  top: -4px;  left: 96px;  height: 58px;  width: 58px;  z-index: 199;}.ServiceID_Icon .ServiceID_Icon_Animation_1 {  position: absolute;  top: 0px;  right: 0px;  width: 150px;  height: 150px;  display: none;  z-index: 95;}.ServiceID_Icon .ServiceID_Icon_New_Animation_1 {  position: absolute;  top: 48px;  right: 12px;  width: 128px;  height: 64px;  display: none;  z-index: 95;}.PMCID_Icon_Container {  position: relative;  width: 156px;  height: 106px;  float: left;  margin: 3px;}.PMCID_Icon_Container label {  font-size: 8pt;}.PMCID_Icon {  position: relative;  float: left;  top: 3px;  left: 3px;  width: 150px;  height: 100px;  text-align: center;  background-repeat: no-repeat;  color: white;  cursor: pointer;}.PMCID_Icon .PMCID_CP_Icon {  position: relative;  margin-left: auto;  margin-right: auto;  margin-top: 17px;  max-height: 40px;}.PMCID_Icon .PMCID_CP_Label {  position: relative;  margin-left: auto;  margin-right: auto;  top: 15px;  z-index: 99;}.PMCID_Icon .PMCID_Icon_Selected {  position: absolute;  top: 0px;  left: 0px;  width: 150px;  height: 100px;  z-index: 98;}.PMCID_Icon .PMCID_Deactivated {  position: absolute;  top: 0px;  left: 0px;  width: 150px;  height: 100px;  z-index: 99;}.PMCID_Icon .PMCID_Icon_Over {  position: absolute;  top: 0px;  left: 0px;  width: 150px;  height: 100px;}.PermanentDeactivated {  position: absolute;  left: 0px;  z-index: 400;}.PermanentDeactivated .PMCID_Deactivated {  position: relative;  left: 0px;  width: 150px;}.PermanentDeactivated .ServiceID_Deactivated {  position: relative;  left: 0px;  width: 150px;}/* button row */.SubmitButtonRow {  position: relative;  height: 25px;  margin-top: 20px;  margin-bottom: 10px;  text-align: center;}.SubmitButtonRow .LeftButton {  float: left;  margin-left: 20px;}.SubmitButtonRow .CenterButton {  margin-left: auto;  margin-right: auto;  width: 135px;}.SubmitButtonRow .RightButton {  float: right;  margin-right: 20px;}#donate .SubmitButtonRow .LeftButton {  float: right;  margin-right: 20px;}#donate .SubmitButtonRow .RightButton {  float: left;  margin-left: 20px; }/* purchased items detail view and assign process */.PurchasedItemContainer {  position: relative;  float: right;   overflow: hidden;  height: 70px;  width: 130px;  border: 1px solid #7b6e4c;  margin-left: 10px;}.PurchasedItemImage {  position: absolute;  height: 150px;  width: 150px;  top: -47px;  left: -7px;}.PurchasedItemImageNew {  position: absolute;  height: 64px;  width: 128px;  top: 0px;  left: 0px;}/* helper div */.HelperDivIndicator {  position: relative;  cursor: help;}
+
+#HelperDivContainer {
+    display: none;
+    position: absolute;
+    width: 225px;
+    z-index: 1000;
+    color: #5A2800;
+    font-family: Verdana,Arial,Times New Roman,sans-serif;
+    font-size: 8pt;
+    text-align: left;
+    padding: 10px;
+    border: 1px double #5A2800;
+    margin-right: 70px;
+    margin-top: 10px;
+}
+#HelperDivContainer .HelperDivArrow {  
+    position: absolute;  
+    top: 20px;  
+    left: -8px;  
+    width: 8px;  
+    height: 13px;
+}
+#HelperDivContainer #HelperDivHeadline {  
+    font-size: 12pt;  
+    font-weight: bold;
+}
+#HelperDivContainer #HelperDivHeadline {  
+    position: relative;  
+    white-space: normal;  
+    text-align: justify;  
+    margin-top: 0px;  
+    margin-bottom: 15px;
+}
+#HelperDivContainer .Ornament {  
+    width: 220px;
+}
+#HelperDivContainer #HelperDivText {  
+    text-align: justify;
+}
+#HelperDivContainer #HelperDivText ul {  
+    padding-left: 20px;
+}
