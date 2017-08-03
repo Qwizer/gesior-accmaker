@@ -132,12 +132,6 @@ function showSpoiler(obj)
     ref.parentNode.insertBefore(js, ref);
   }(document));
 </script>
-<script id="_waut80">var _wau = _wau || [];
-_wau.push(["tab", "71je8r5pc0j0", "t80", "left-lower"]);
-(function() {var s=document.createElement("script"); s.async=true;
-s.src="//widgets.amung.us/tab.js";
-document.getElementsByTagName("head")[0].appendChild(s);
-})();</script>
 
 <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
 <script type="text/javascript" src="<?PHP echo $layout_name; ?>/shop.js"></script>
